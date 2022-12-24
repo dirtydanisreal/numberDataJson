@@ -80,14 +80,6 @@
     "TUBE": ""
   },
   {
-    "NAME": "2 ICU",
-    "PRIMARY": "3 - 6388",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
     "NAME": "2MICU",
     "PRIMARY": "7 - 2442",
     "SECONDARY": "",
@@ -186,14 +178,6 @@
   {
     "NAME": "4 CHILD LIFE",
     "PRIMARY": "3 - 6551",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "3 BMT",
-    "PRIMARY": "3 - 5826",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1256,6 +1240,14 @@
     "TUBE": ""
   },
   {
+    "NAME": "ED CT SCAN",
+    "PRIMARY": "3 - 6167",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "ED RADIOLOGY",
     "PRIMARY": "7 - 1698",
     "SECONDARY": "",
@@ -1425,41 +1417,65 @@
   },
   {
     "NAME": "GOOD SAM MAIN",
-    "PRIMARY": "",
+    "PRIMARY": "(859) 226-7000",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7000",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
   {
     "NAME": "GOOD SAM ED",
-    "PRIMARY": "",
+    "PRIMARY": "(859) 226-7070",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7070",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
   {
     "NAME": "GOOD SAM 2 MAIN",
-    "PRIMARY": "",
+    "PRIMARY": "(859) 226-7030",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7030",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
   {
     "NAME": "GOOD SAM 4 ICU",
-    "PRIMARY": "",
+    "PRIMARY": "(859) 226-7364",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7364",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
   {
     "NAME": "GOOD SAM 5 MAIN",
-    "PRIMARY": "",
+    "PRIMARY": "(859) 226-7176",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7176",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "GOOD SAM 4 MAIN",
+    "PRIMARY": "(859) 226-7075",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "GOOD SAM 4 WEST",
+    "PRIMARY": "(859) 226-7365",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "GOOD SAM 3 MAIN",
+    "PRIMARY": "(859) 562-1968",
+    "SECONDARY": "",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
@@ -1521,9 +1537,9 @@
   },
   {
     "NAME": "HOSPICE",
-    "PRIMARY": "3 - 4689",
+    "PRIMARY": "2 - 1135",
     "SECONDARY": "",
-    "PAGER": "(859) 330-6856",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
@@ -1817,7 +1833,7 @@
   },
   {
     "NAME": "NURSE PAYROLL",
-    "PRIMARY": "3 - 5926",
+    "PRIMARY": "7 - 3946",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -2160,7 +2176,7 @@
     "TUBE": ""
   },
   {
-    "NAME": "RAPID",
+    "NAME": "RAPID RESPONSE",
     "PRIMARY": "",
     "SECONDARY": "",
     "PAGER": "(859) 330-6860",
