@@ -1088,14 +1088,6 @@
     "TUBE": ""
   },
   {
-    "NAME": "CT CONTROL",
-    "PRIMARY": "3 - 9730",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
     "NAME": "CT RADIOLOGY",
     "PRIMARY": "3 - 6169",
     "SECONDARY": "",
@@ -1105,7 +1097,7 @@
   },
   {
     "NAME": "CT SCAN",
-    "PRIMARY": "3 - 6167",
+    "PRIMARY": "3 - 9730",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
