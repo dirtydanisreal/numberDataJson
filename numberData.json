@@ -896,6 +896,14 @@
     "TUBE": ""
   },
   {
+    "NAME": "CATH LAB RECOVERY",
+    "PRIMARY": "3 - 4040",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "CENTER FOR ADVANCED SURGERY",
     "PRIMARY": "3 - 5501",
     "SECONDARY": "",
@@ -913,6 +921,14 @@
   },
   {
     "NAME": "CENTRAL LAB",
+    "PRIMARY": "2 - 0831",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": 164
+  },
+  {
+    "NAME": "LAB",
     "PRIMARY": "2 - 0831",
     "SECONDARY": "",
     "PAGER": "",
@@ -1050,6 +1066,14 @@
   {
     "NAME": "DATA CENTER",
     "PRIMARY": "3 - 0084",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "DIET OFFICE",
+    "PRIMARY": "3 - 6980",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1737,7 +1761,7 @@
   },
   {
     "NAME": "MEDICAL RECORDS",
-    "PRIMARY": "7 - 3591",
+    "PRIMARY": "3 - 5416",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -2236,6 +2260,14 @@
     "PRIMARY": "",
     "SECONDARY": "",
     "PAGER": "(859) 330-7663",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "SHUTTLE",
+    "PRIMARY": "3 - 6824",
+    "SECONDARY": "",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
