@@ -16,6 +16,14 @@
     "TUBE": "910"
   },
   {
+    "NAME": "KIM MORGAN",
+    "PRIMARY": "8 - 5331",
+    "SECONDARY": "",
+    "PAGER": "(859) 457-7985",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "10.2 AC/PC",
     "PRIMARY": "3 - 6141",
     "SECONDARY": "",
@@ -1674,8 +1682,8 @@
   {
     "NAME": "JODI SIFFORD",
     "PRIMARY": "3 - 3825",
-    "SECONDARY": "",
-    "PAGER": "(937) 478-9586",
+    "SECONDARY": "(937) 478-9586",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
@@ -1742,6 +1750,30 @@
     "PAGER": "",
     "FAX": "",
     "TUBE": 750
+  },
+  {
+    "NAME": "JEANETTE RICHARDS",
+    "PRIMARY": "3 - 4157",
+    "SECONDARY": "(859) 327-2554",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": 
+  },
+    {
+    "NAME": "ANDREW MOORE",
+    "PRIMARY": "8 - 4083",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": 
+  },
+  {
+    "NAME": "MANDIE LIGHTFOOT",
+    "PRIMARY": "8 - 8198",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": 
   },
   {
     "NAME": "MATERIALS OR",
