@@ -2590,5 +2590,29 @@
     "PAGER": "",
     "FAX": "226-7266",
     "TUBE": ""
+  },
+  {
+    "NAME": "PAIN MANAGEMENT, ACUTE",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "330-4007",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "PAIN MANAGEMENT, CHRONIC",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "330-4002",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "DISPATCH, NON-EMERGENCY",
+    "PRIMARY": "3 - 6281",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
   }
 ]
