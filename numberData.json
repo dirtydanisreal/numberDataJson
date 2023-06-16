@@ -24,6 +24,22 @@
     "TUBE": "410"
   },
   {
+    "NAME": "ON CALL NURSE",
+    "PRIMARY": "(859) 562-2783",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "ON CALL NURSE AFTER HOURS/WEEKENDS",
+    "PRIMARY": "(859) 323-5321",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "10.1 ICU",
     "PRIMARY": "3 - 9271",
     "SECONDARY": "",
