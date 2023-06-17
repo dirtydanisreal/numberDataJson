@@ -1489,15 +1489,7 @@
   },
   {
     "NAME": "GOOD SAM ED",
-    "PRIMARY": "(859) 226-7070",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "GOOD SAM 2 MAIN",
-    "PRIMARY": "(859) 226-7030",
+    "PRIMARY": "(859) 323-8872",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1505,7 +1497,7 @@
   },
   {
     "NAME": "GOOD SAM 4 ICU",
-    "PRIMARY": "(859) 226-7364",
+    "PRIMARY": "(859) 218-9311",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1513,7 +1505,7 @@
   },
   {
     "NAME": "GOOD SAM 5 MAIN",
-    "PRIMARY": "(859) 226-7176",
+    "PRIMARY": "(859) 218-9333",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1521,7 +1513,7 @@
   },
   {
     "NAME": "GOOD SAM 4 MAIN",
-    "PRIMARY": "(859) 226-7075",
+    "PRIMARY": "(859) 218-9301",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1529,7 +1521,7 @@
   },
   {
     "NAME": "GOOD SAM 4 WEST",
-    "PRIMARY": "(859) 226-7365",
+    "PRIMARY": "(859) 218-9308",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1544,16 +1536,32 @@
     "TUBE": ""
   },
   {
-    "NAME": "GOOD SAM 6",
-    "PRIMARY": "",
+    "NAME": "GOOD SAM 6 MAIN",
+    "PRIMARY": "(859) 218-9341",
     "SECONDARY": "",
-    "PAGER": "(859) 226-7321",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
   {
     "NAME": "GOOD SAM ADULT BEHAVIORAL HEALTH",
     "PRIMARY": "(859) 218-9340",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "GOOD SAM SLEEP CENTER",
+    "PRIMARY": "(859) 218-9341",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "GOOD SAM ADOLESCENT BEHAVIORAL HEALTH",
+    "PRIMARY": "(859) 218-9381",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
