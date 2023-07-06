@@ -1193,16 +1193,8 @@
   },
   {
     "NAME": "CT SCAN",
-    "PRIMARY": "3 - 9730",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "CT SCAN ER",
     "PRIMARY": "3 - 6167",
-    "SECONDARY": "",
+    "SECONDARY": "3 - 9730",
     "PAGER": "",
     "FAX": "",
     "TUBE": ""
