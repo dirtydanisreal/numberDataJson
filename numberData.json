@@ -160,6 +160,14 @@
     "TUBE": ""
   },
   {
+    "NAME": "POINT OF CARE LAB",
+    "PRIMARY": "7 - 3051",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "2MICU",
     "PRIMARY": "7 - 2442",
     "SECONDARY": "",
