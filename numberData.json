@@ -138,7 +138,7 @@
   },
   {
     "NAME": "1MICU",
-    "PRIMARY": "323 - 6387",
+    "PRIMARY": "(859) 323-6387",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -414,7 +414,7 @@
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
-    "TUBE": ""
+    "TUBE": "405"
   },
   {
     "NAME": "6.1 AC/PC",
@@ -454,7 +454,7 @@
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
-    "TUBE": ""
+    "TUBE": "905"
   },
   {
     "NAME": "5.2 AC/PC",
@@ -462,7 +462,7 @@
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
-    "TUBE": ""
+    "TUBE": "705"
   },
   {
     "NAME": "5.200 ICU",
@@ -470,7 +470,7 @@
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
-    "TUBE": ""
+    "TUBE": "605"
   },
   {
     "NAME": "6E",
