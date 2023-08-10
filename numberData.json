@@ -47,38 +47,7 @@
     "FAX": "",
     "TUBE": ""
   },
-  {
-    "NAME": "MANDIE LIGHTFOOT OFFICE",
-    "PRIMARY": "8 - 8198",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "LISA THOMPSON",
-    "PRIMARY": "(859) 509-1585",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "TRICIA KELLENBARGER",
-    "PRIMARY": "(859) 333-7422",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "ANDREW BERNARD",
-    "PRIMARY": "(859) 913-3613",
-    "SECONDARY": "",
-    "PAGER": "330-0353",
-    "FAX": "",
-    "TUBE": ""
-  },
+  
   {
     "NAME": "1 CDU",
     "PRIMARY": "3 - 0822",
@@ -832,7 +801,7 @@
     "TUBE": ""
   },
   {
-    "NAME": "AGILITY",
+    "NAME": "AGILITI",
     "PRIMARY": "8 - 2975",
     "SECONDARY": "",
     "PAGER": "",
@@ -844,14 +813,6 @@
     "PRIMARY": "2 - 6900",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "ANDREW BERNARD",
-    "PRIMARY": "",
-    "SECONDARY": "",
-    "PAGER": "(859) 221-7433",
     "FAX": "",
     "TUBE": ""
   },
@@ -882,14 +843,6 @@
   {
     "NAME": "BARIUM SWALLOW",
     "PRIMARY": "3 - 9896",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "BECCA CHARLES",
-    "PRIMARY": "3 - 5411",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -938,14 +891,6 @@
   {
     "NAME": "BMT",
     "PRIMARY": "3 - 6280",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "BRIAN TUCKER",
-    "PRIMARY": "3 - 5401",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1258,14 +1203,6 @@
   {
     "NAME": "DCN",
     "PRIMARY": "2 - 6811",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "DENISE FELDMAN",
-    "PRIMARY": "",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1776,46 +1713,6 @@
     "TUBE": ""
   },
   {
-    "NAME": "JANE HAMMONDS",
-    "PRIMARY": "3 - 1481",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "JENNY SOULES",
-    "PRIMARY": "8 - 2888",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "JILL CLEMMONS",
-    "PRIMARY": "",
-    "SECONDARY": "",
-    "PAGER": "(859) 330-0823",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "JODI SIFFORD",
-    "PRIMARY": "3 - 3825",
-    "SECONDARY": "",
-    "PAGER": "(937) 478-9586",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "KATHY KRONOS",
-    "PRIMARY": "3 - 6800",
-    "SECONDARY": "",
-    "PAGER": "(937) 478-9586",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
     "NAME": "KCH SEDATION",
     "PRIMARY": "3 - 1909",
     "SECONDARY": "",
@@ -1844,14 +1741,6 @@
     "PRIMARY": "3 - 5132",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "LISA FRYMAN",
-    "PRIMARY": "3 - 2060",
-    "SECONDARY": "",
-    "PAGER": "(859) 229-5767",
     "FAX": "",
     "TUBE": ""
   },
@@ -2096,14 +1985,6 @@
     "TUBE": ""
   },
   {
-    "NAME": "PAULA HOLBROOK",
-    "PRIMARY": "(859) 257-6212",
-    "SECONDARY": "",
-    "PAGER": "(859) 333-0461",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
     "NAME": "PACU ANNEX",
     "PRIMARY": "7 - 5814",
     "SECONDARY": "",
@@ -2170,14 +2051,6 @@
   {
     "NAME": "PATIENT PHONES",
     "PRIMARY": "8 - 4357",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "PAULA HALCOMB",
-    "PRIMARY": "3 - 3552",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -2426,14 +2299,6 @@
   {
     "NAME": "SURGERY WAITING",
     "PRIMARY": "3 - 4050",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "TAMMY ELLIS",
-    "PRIMARY": "8 - 1407",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
