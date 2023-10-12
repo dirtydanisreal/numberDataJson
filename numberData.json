@@ -16,6 +16,46 @@
     "TUBE": ""
   },
   {
+    "NAME": "PEDIATRIC ED",
+    "PRIMARY": "3 - 2173",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "APPOINTMENTS",
+    "PRIMARY": "3 - 7530",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "NACU",
+    "PRIMARY": "2 - 3271",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "4 NEO",
+    "PRIMARY": "2 - 3271",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "BHU",
+    "PRIMARY": "8 - 2940",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
     "NAME": "LABOR AND DELIVERY",
     "PRIMARY": "3 - 6310",
     "SECONDARY": "",
@@ -253,7 +293,7 @@
     "PRIMARY": "3 - 5397",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
+    "FAX": "7 - 7520",
     "TUBE": ""
   },
   {
@@ -290,7 +330,7 @@
   },
   {
     "NAME": "4 CHILD LIFE",
-    "PRIMARY": "3 - 6551",
+    "PRIMARY": "3 - 6473",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -402,7 +442,7 @@
   },
   {
     "NAME": "6 EAST",
-    "PRIMARY": "3 - 5644",
+    "PRIMARY": "3 - 6145",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -1387,7 +1427,7 @@
   {
     "NAME": "ENDOCRINOLOGY",
     "PRIMARY": "3 - 5404",
-    "SECONDARY": "",
+    "SECONDARY": "(859) 562-1186",
     "PAGER": "",
     "FAX": "",
     "TUBE": ""
