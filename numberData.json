@@ -68,7 +68,7 @@
     "PRIMARY": "(859) 286-5594",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
+    "FAX": "(859) 559-0690",
     "TUBE": ""
   },
   {
@@ -76,6 +76,14 @@
     "PRIMARY": "(859) 275-1113",
     "SECONDARY": "",
     "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "INPATIENT ON CALL CASE MANAGEMENT",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "(859) 330-1077",
     "FAX": "",
     "TUBE": ""
   },
@@ -922,7 +930,7 @@
   },
   {
     "NAME": "BEREAVEMENT CART",
-    "PRIMARY": "7 - 5610",
+    "PRIMARY": "3 - 6980",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -954,7 +962,7 @@
   },
   {
     "NAME": "BMT",
-    "PRIMARY": "3 - 6280",
+    "PRIMARY": "8 - 7936",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
