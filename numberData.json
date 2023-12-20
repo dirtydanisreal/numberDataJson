@@ -111,15 +111,6 @@
     "FAX": "",
     "TUBE": ""
   },
-  
-  {
-    "NAME": "1 CDU",
-    "PRIMARY": "3 - 0822",
-    "SECONDARY": "3 - 0821",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
   {
     "NAME": "ON CALL NURSE",
     "PRIMARY": "(859) 562-2783",
@@ -2675,6 +2666,14 @@
   {
     "NAME": "DISPATCH, NON-EMERGENCY",
     "PRIMARY": "3 - 6281",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  } ,
+  {
+    "NAME": "XRAY PAV H",
+    "PRIMARY": "3 - 5075",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
