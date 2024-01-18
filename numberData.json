@@ -202,7 +202,7 @@
   {
     "NAME": "1CDU",
     "PRIMARY": "8 - 7280",
-    "SECONDARY": "",
+    "SECONDARY": "8 - 8428",
     "PAGER": "",
     "FAX": "",
     "TUBE": "757"
@@ -214,14 +214,6 @@
     "PAGER": "",
     "FAX": "",
     "TUBE": "757"
-  },
-   {
-    "NAME": "1 CDU",
-    "PRIMARY": "8 - 7280",
-    "SECONDARY": "",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
   },
   {
     "NAME": "KENTUCKY CLINIC",
