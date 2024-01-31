@@ -167,6 +167,14 @@
     "FAX": "",
     "TUBE": ""
   },
+    {
+    "NAME": "HOSPITALITY LOUNGE",
+    "PRIMARY": "3 - 7960",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
   {
     "NAME": "CRITICAL CARE MEDICINE",
     "PRIMARY": "(859) 330-0901",
@@ -1211,7 +1219,7 @@
     "NAME": "CLINICAL ENGINEERING",
     "PRIMARY": "3 - 8586",
     "SECONDARY": "",
-    "PAGER": "(859) 338-5548",
+    "PAGER": "",
     "FAX": "",
     "TUBE": ""
   },
@@ -2602,6 +2610,14 @@
   {
     "NAME": "SITTERS",
     "PRIMARY": "3 - 7223",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+    {
+    "NAME": "PLASMAPHERESIS",
+    "PRIMARY": "3 - 9790",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
