@@ -8,6 +8,30 @@
     "FAX": "",
     "TUBE": "412"
   },
+         {
+    "NAME": "CMS Tele Sitter",
+    "PRIMARY": "2 - 2402",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+        {
+    "NAME": "Sitter Tele",
+    "PRIMARY": "2 - 2402",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+        {
+    "NAME": "Tele Sitter",
+    "PRIMARY": "2 - 2402",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
  {
     "NAME": "12.200",
     "PRIMARY": "8 - 9621",
