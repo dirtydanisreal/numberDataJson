@@ -1186,7 +1186,7 @@
   },
   {
     "NAME": "CENTRAL PHARMACY",
-    "PRIMARY": "3 - 5641",
+    "PRIMARY": "8 - 0001",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "3 - 4277",
@@ -2258,7 +2258,7 @@
   },
   {
     "NAME": "PHARM RUN",
-    "PRIMARY": "8 - 8361",
+    "PRIMARY": "8 - 0008",
     "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
@@ -2412,14 +2412,6 @@
     "NAME": "SECURITY",
     "PRIMARY": "3 - 6156",
     "SECONDARY": "7 - 4545",
-    "PAGER": "",
-    "FAX": "",
-    "TUBE": ""
-  },
-  {
-    "NAME": "SGB PHARMACY",
-    "PRIMARY": "8 - 8363",
-    "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
     "TUBE": ""
