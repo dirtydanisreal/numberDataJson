@@ -584,6 +584,14 @@
     "FAX": "",
     "TUBE": "405"
   },
+   {
+    "NAME": "5-1 AC/PC",
+    "PRIMARY": "3 - 3385",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "405"
+  },
   {
     "NAME": "6.1 AC/PC",
     "PRIMARY": "8 - 8632",
@@ -616,6 +624,38 @@
     "FAX": "",
     "TUBE": "706"
   },
+   {
+    "NAME": "6-1 AC/PC",
+    "PRIMARY": "8 - 8632",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "3 - 3389",
+    "TUBE": "406"
+  },
+  {
+    "NAME": "6-1 ICU",
+    "PRIMARY": "8 - 8609",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "3 - 3422",
+    "TUBE": "906"
+  },
+  {
+    "NAME": "6-2 ICU",
+    "PRIMARY": "8 - 8657",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "606"
+  },
+  {
+    "NAME": "6-2 UNI",
+    "PRIMARY": "8 - 8686",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "706"
+  },
   {
     "NAME": "5.1 ICU",
     "PRIMARY": "3 - 3421",
@@ -634,6 +674,29 @@
   },
   {
     "NAME": "5.200 ICU",
+    "PRIMARY": "3 - 3523",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "605"
+  },
+    { "NAME": "5-1 ICU",
+    "PRIMARY": "3 - 3421",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "905"
+  },
+  {
+    "NAME": "5-2 AC/PC",
+    "PRIMARY": "3 - 3491",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "705"
+  },
+  {
+    "NAME": "5-200 ICU",
     "PRIMARY": "3 - 3523",
     "SECONDARY": "",
     "PAGER": "",
@@ -712,6 +775,22 @@
     "FAX": "",
     "TUBE": ""
   },
+   {
+    "NAME": "7-1 ICU",
+    "PRIMARY": "3 - 3600",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "3 - 3615",
+    "TUBE": "907"
+  },
+  {
+    "NAME": "7-1 UNIVERSAL",
+    "PRIMARY": "3 - 3570",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "407"
+  },
   {
     "NAME": "7.1 ICU",
     "PRIMARY": "3 - 3600",
@@ -744,6 +823,14 @@
     "FAX": "3 - 3867",
     "TUBE": "707"
   },
+   {
+    "NAME": "7-2 AC/PC",
+    "PRIMARY": "3 - 3760",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "3 - 3867",
+    "TUBE": "707"
+  },
   {
     "NAME": "7.2 CONFERENCE ROOM",
     "PRIMARY": "3 - 4149",
@@ -754,6 +841,13 @@
   },
   {
     "NAME": "7.2 ICU",
+    "PRIMARY": "323 - 3934",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "3 - 3942",
+    "TUBE": "607"
+  },
+    { "NAME": "7-2 ICU",
     "PRIMARY": "323 - 3934",
     "SECONDARY": "",
     "PAGER": "",
@@ -856,8 +950,24 @@
     "FAX": "",
     "TUBE": "908"
   },
+   {
+    "NAME": "8-1 AC/PC",
+    "PRIMARY": "8 - 4240",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "908"
+  },
   {
     "NAME": "8.2 ICU",
+    "PRIMARY": "8 - 4171",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "608"
+  },
+   {
+    "NAME": "8-2 ICU",
     "PRIMARY": "8 - 4171",
     "SECONDARY": "",
     "PAGER": "",
@@ -896,6 +1006,14 @@
     "FAX": "",
     "TUBE": "409"
   },
+   {
+    "NAME": "9-1 AC/PC",
+    "PRIMARY": "3 - 9073",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": "409"
+  },
   {
     "NAME": "9.1 ICU",
     "PRIMARY": "3 - 9057",
@@ -914,6 +1032,14 @@
   },
   {
     "NAME": "9.2 AC/PC",
+    "PRIMARY": "3 - 9153",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+   {
+    "NAME": "9-2 AC/PC",
     "PRIMARY": "3 - 9153",
     "SECONDARY": "",
     "PAGER": "",
