@@ -8,6 +8,14 @@
     "FAX": "",
     "TUBE": "412"
   },
+ {
+    "NAME": "CENTRAL PHARMACY TECH",
+    "PRIMARY": "8 - 0008",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
          {
     "NAME": "CMS Tele Sitter",
     "PRIMARY": "2 - 2402",
@@ -17,7 +25,7 @@
     "TUBE": ""
   },
         {
-    "NAME": "Sitter Tele",
+    "NAME": "SITTER TELE",
     "PRIMARY": "2 - 2402",
     "SECONDARY": "",
     "PAGER": "",
@@ -25,7 +33,7 @@
     "TUBE": ""
   },
         {
-    "NAME": "Tele Sitter",
+    "NAME": "TELE SITTER",
     "PRIMARY": "2 - 2402",
     "SECONDARY": "",
     "PAGER": "",
