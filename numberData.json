@@ -1568,8 +1568,16 @@
   },
   {
     "NAME": "DISPATCH",
+    "PRIMARY": "3 - 6215",
+    "SECONDARY": "3",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+   {
+    "NAME": "MAINTENACE DISPATCH",
     "PRIMARY": "3 - 6285",
-    "SECONDARY": "3 - 6215",
+    "SECONDARY": "",
     "PAGER": "",
     "FAX": "",
     "TUBE": ""
