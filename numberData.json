@@ -8,6 +8,14 @@
     "FAX": "",
     "TUBE": "412"
   },
+   {
+    "NAME": "EEG LAB",
+    "PRIMARY": "3 - 5032",
+    "SECONDARY": "7 - 2408",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
  {
     "NAME": "CENTRAL PHARMACY TECH",
     "PRIMARY": "8 - 0008",
