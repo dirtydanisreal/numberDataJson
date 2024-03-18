@@ -1703,7 +1703,15 @@
     "TUBE": ""
   },
   {
-    "NAME": "ENDOSCOPY",
+    "NAME": "ENDOSCOPY CHARGE DESK",
+    "PRIMARY": "3 - 6409",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "ENDOSCOPY CLERK DESK",
     "PRIMARY": "3 - 3636",
     "SECONDARY": "",
     "PAGER": "",
