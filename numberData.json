@@ -8,6 +8,30 @@
     "FAX": "",
     "TUBE": "412"
   },
+  {
+    "NAME": "SGE FLOOR SERVICE PAGER",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "(859) 330-0913",
+    "FAX": "",
+    "TUBE": ""
+  },
+  {
+    "NAME": "SGE ICU SERVICE PAGER",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "(859) 330-8532",
+    "FAX": "",
+    "TUBE": ""
+  },
+ {
+    "NAME": "SGT ICU SERVICE PAGER",
+    "PRIMARY": "",
+    "SECONDARY": "",
+    "PAGER": "(859) 330-3760",
+    "FAX": "",
+    "TUBE": ""
+  },
    {
     "NAME": "EEG LAB",
     "PRIMARY": "3 - 5032",
