@@ -1,13 +1,38 @@
 [
  
        {
-    "NAME": "12.100 MICU",
+    "NAME": "12.1 MICU",
     "PRIMARY": "8 - 9670",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
+    "FAX": "2 - 1997",
     "TUBE": "412"
   },
+ {
+    "NAME": "MICU 1",
+    "PRIMARY": "8 - 9670",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "2 - 1997",
+    "TUBE": "412"
+  },
+ {
+    "NAME": "CVICU N",
+    "PRIMARY": "8 - 9670",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "2 - 1997",
+    "TUBE": "912"
+  },
+      {
+    "NAME": "12.100 ICU",
+    "PRIMARY": "8 - 9670",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "2 - 1997",
+    "TUBE": "912"
+  },
+
   {
     "NAME": "SGE FLOOR SERVICE PAGER",
     "PRIMARY": "",
@@ -118,8 +143,24 @@
     "PRIMARY": "8 - 9621",
     "SECONDARY": "",
     "PAGER": "",
-    "FAX": "",
-    "TUBE": "412"
+    "FAX": "7 - 4600",
+    "TUBE": "612,712"
+  },
+ {
+    "NAME": "MICU3",
+    "PRIMARY": "8 - 9621",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "7 - 4600",
+    "TUBE": "612"
+  },
+ {
+    "NAME": "MICU2",
+    "PRIMARY": "8 - 9621",
+    "SECONDARY": "",
+    "PAGER": "",
+    "FAX": "7 - 4600",
+    "TUBE": "712"
   },
     {
     "NAME": "DECEDENT AFFAIRS",
