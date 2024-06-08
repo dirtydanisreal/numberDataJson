@@ -3641,16 +3641,7 @@
 	}
 	,
 	{
-		"NAME": XRAY",
-		"PRIMARY": "3 - 5075",
-		"SECONDARY": "",
-		"PAGER": "",
-		"FAX": "",
-		"TUBE": ""
-	}
-	,
-	{
-		"NAME": X-RAY",
+		"NAME": "XRAY",
 		"PRIMARY": "3 - 5075",
 		"SECONDARY": "",
 		"PAGER": "",
