@@ -234,7 +234,7 @@
 	{
 		"NAME": "3 NEO",
 		"PRIMARY": "3 - 0086",
-		"SECONDARY": "",
+		"SECONDARY": "3 - 2243",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
@@ -1248,6 +1248,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "APPS",
+		"PRIMARY": "(859) 562-1085/1111",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "ARTS AND MUSIC",
 		"PRIMARY": "",
 		"SECONDARY": "",
@@ -1314,6 +1322,14 @@
 	{
 		"NAME": "BILLING",
 		"PRIMARY": "3 - 5806",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BLACKBERRY",
+		"PRIMARY": "2 - 1070",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -1616,6 +1632,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "CONEFLOWER",
+		"PRIMARY": "2- 1020",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "CRITICAL CARE MEDICINE",
 		"PRIMARY": "(859) 330-0901",
 		"SECONDARY": "",
@@ -1682,6 +1706,22 @@
 	{
 		"NAME": "DATA CENTER",
 		"PRIMARY": "3 - 0084",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "D/C PLANNER GROW",
+		"PRIMARY": "2 - 1072",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "D/C PLANNER TOLLE",
+		"PRIMARY": "2 - 1073",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -1896,6 +1936,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "ELK",
+		"PRIMARY": "2 - 1030",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "EMPLOYEE & STUDENT HEALTH",
 		"PRIMARY": "3 - 5823",
 		"SECONDARY": "",
@@ -1970,6 +2018,14 @@
 	{
 		"NAME": "FINANCIAL SERVICES",
 		"PRIMARY": "3 - 5806",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FISH",
+		"PRIMARY": "2 - 1050",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -2408,6 +2464,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "INFANT NUTRITION",
+		"PRIMARY": "(859) 562-1108",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "INFORMATION DESK",
 		"PRIMARY": "3 - 5816",
 		"SECONDARY": "",
@@ -2518,6 +2582,22 @@
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": 164
+	},
+	{
+		"NAME": "LACTATION",
+		"PRIMARY": "(859) 361-4689",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 164
+	},
+	{
+		"NAME": "LABOR HALL",
+		"PRIMARY": "3 - 5932",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
 	},
 	{
 		"NAME": "LABOR AND DELIVERY",
@@ -2666,6 +2746,14 @@
 	{
 		"NAME": "NACU",
 		"PRIMARY": "2 - 3271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NBN",
+		"PRIMARY": "7 - 7430",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -3184,6 +3272,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "RESIDENT ROOM",
+		"PRIMARY": "(859) 532-1112",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "RESPIRATORY",
 		"PRIMARY": "8 - 8349",
 		"SECONDARY": "",
@@ -3296,6 +3392,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "SQUIRREL",
+		"PRIMARY": "2 - 1060",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "SUPPLY",
 		"PRIMARY": "7 - 2446",
 		"SECONDARY": "",
@@ -3338,6 +3442,22 @@
 	{
 		"NAME": "TELE TRANSPORT",
 		"PRIMARY": "2 - 2087",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TM NORTH",
+		"PRIMARY": "(859) 333-7937",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TM SOUTH",
+		"PRIMARY": "(859) 684-2695",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -3480,6 +3600,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "WARBLER",
+		"PRIMARY": "2 - 1040",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "WE CARE",
 		"PRIMARY": "(859) 286-5594",
 		"SECONDARY": "",
@@ -3506,6 +3634,24 @@
 	{
 		"NAME": "WOUND/OSTOMY",
 		"PRIMARY": "3 - 3730",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	}
+	,
+	{
+		"NAME": XRAY",
+		"PRIMARY": "3 - 5075",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	}
+	,
+	{
+		"NAME": X-RAY",
+		"PRIMARY": "3 - 5075",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
