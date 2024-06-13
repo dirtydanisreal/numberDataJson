@@ -160,6 +160,14 @@
 		"TUBE": "757"
 	},
 	{
+		"NAME": "1 CDU",
+		"PRIMARY": "8 - 7280",
+		"SECONDARY": "8 - 8428",
+		"PAGER": "",
+		"FAX": "3 - 8337",
+		"TUBE": "757"
+	},
+	{
 		"NAME": "1IR",
 		"PRIMARY": "8 - 7280",
 		"SECONDARY": "",
@@ -176,7 +184,7 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "2 CDU",
+		"NAME": "2 ",
 		"PRIMARY": "8 - 1480",
 		"SECONDARY": "8 - 1454",
 		"PAGER": "",
