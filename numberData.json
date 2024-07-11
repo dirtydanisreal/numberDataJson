@@ -2504,6 +2504,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "INFECTIOUS CONTROL",
+		"PRIMARY": "3 - 6337",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "INPATIENT CT",
 		"PRIMARY": "3 - 9730",
 		"SECONDARY": "",
