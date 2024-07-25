@@ -544,8 +544,16 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "6 NORTH",
+		"NAME": "6 NORTH CLERK",
 		"PRIMARY": "3 - 6753",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 NORTH NURSE STATION",
+		"PRIMARY": "3 - 6802",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -680,8 +688,16 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "6N",
+		"NAME": "6N CLERK",
 		"PRIMARY": "3 - 6753",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6N NURSE STATION",
+		"PRIMARY": "3 - 6802",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -1321,7 +1337,7 @@
 	},
 	{
 		"NAME": "BHU",
-		"PRIMARY": "8 - 2940",
+		"PRIMARY": "8 - 9340",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
