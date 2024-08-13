@@ -2152,6 +2152,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM MATERIALS",
+		"PRIMARY": "7 - 9211",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM 4 WEST",
 		"PRIMARY": "(859) 218-9308",
 		"SECONDARY": "",
@@ -2323,6 +2331,14 @@
 		"NAME": "GSH LAB",
 		"PRIMARY": "(859) 323-9579",
 		"SECONDARY": "(839) 323-9580",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MATERIALS",
+		"PRIMARY": "7 - 9211",
+		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
