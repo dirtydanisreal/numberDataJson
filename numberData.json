@@ -2584,6 +2584,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "INTERVENTIONAL RADIOLOGY",
+		"PRIMARY": "3 - 0348",
+		"SECONDARY": "3 - 1132",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
 		"NAME": "IPAC",
 		"PRIMARY": "3 - 6337",
 		"SECONDARY": "",
