@@ -2216,6 +2216,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM AGILITI",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM BEHAVIORAL HEALTH",
 		"PRIMARY": "226-7063",
 		"SECONDARY": "",
@@ -2226,6 +2234,14 @@
 	{
 		"NAME": "GOOD SAM ED",
 		"PRIMARY": "(859) 323-8872",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ENDO",
+		"PRIMARY": "8 - 2977",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -2274,6 +2290,14 @@
 	{
 		"NAME": "GSH 7 MAIN",
 		"PRIMARY": "8 - 9355",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH AGILITI",
+		"PRIMARY": "8 - 2977",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -2329,7 +2353,7 @@
 	},
 	{
 		"NAME": "GSH ENDO",
-		"PRIMARY": "(859) 218-9437",
+		"PRIMARY": "8 - 9451",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
