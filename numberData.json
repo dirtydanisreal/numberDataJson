@@ -737,14 +737,6 @@
 	},
 	{
 		"NAME": "7 SOUTH",
-		"PRIMARY": "3 - 9149",
-		"SECONDARY": "",
-		"PAGER": "",
-		"FAX": "",
-		"TUBE": ""
-	},
-	{
-		"NAME": "7 SOUTH NURSES STATION",
 		"PRIMARY": "7 - 2129",
 		"SECONDARY": "7 - 2088",
 		"PAGER": "",
@@ -929,14 +921,6 @@
 	},
 	{
 		"NAME": "7S",
-		"PRIMARY": "3 - 9149",
-		"SECONDARY": "",
-		"PAGER": "",
-		"FAX": "",
-		"TUBE": ""
-	},
-	{
-		"NAME": "7S NURSES STATION",
 		"PRIMARY": "7 - 2129",
 		"SECONDARY": "7 - 2088",
 		"PAGER": "",
