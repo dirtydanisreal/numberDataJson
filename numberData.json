@@ -3224,6 +3224,22 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "PEDS SLEEP CENTER LEAD TECH",
+		"PRIMARY": "8 - 9699",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDS SLEEP CENTER CONTROL ROOM",
+		"PRIMARY": "8 - 9698",
+		"SECONDARY": "8 - 9697",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "PHARM RUN",
 		"PRIMARY": "8 - 0008",
 		"SECONDARY": "",
