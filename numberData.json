@@ -2616,9 +2616,17 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "INTERVENTIONAL RADIOLOGY",
+		"NAME": "INTERVENTIONAL RADIOLOGY CONTROL DESK",
 		"PRIMARY": "3 - 0348",
 		"SECONDARY": "3 - 1132",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "INTERVENTIONAL RADIOLOGY NURSE STATION",
+		"PRIMARY": "8 - 8423",
+		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": "757"
@@ -2632,9 +2640,17 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "IR",
+		"NAME": "IR CONTROL DESK",
 		"PRIMARY": "3 - 0348",
 		"SECONDARY": "3 - 1132",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "IR NURSE STATION",
+		"PRIMARY": "8 - 8423",
+		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": "757"
