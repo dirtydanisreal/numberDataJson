@@ -2232,6 +2232,22 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAMARITAN ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM ENDO",
 		"PRIMARY": "8 - 2977",
 		"SECONDARY": "",
@@ -2266,6 +2282,22 @@
 	{
 		"NAME": "GOOD SAMARITAN MEDS 2 BEDS",
 		"PRIMARY": "8 - 4776",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAMARITAN MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -2368,6 +2400,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GSH ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GSH ENDO",
 		"PRIMARY": "8 - 9451",
 		"SECONDARY": "",
@@ -2410,6 +2450,14 @@
 	{
 		"NAME": "GSH MONITORED TRANSPORT",
 		"PRIMARY": "(859) 213-1584",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
