@@ -2176,6 +2176,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM 5TH FLOOR",
+		"PRIMARY": "(859) 218-9333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM 6 MAIN",
 		"PRIMARY": "(859) 218-9341",
 		"SECONDARY": "",
@@ -2330,6 +2338,14 @@
 	{
 		"NAME": "GROUND FLOOR INFO DESK",
 		"PRIMARY": "3 - 3120",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH 5TH FLOOR",
+		"PRIMARY": "(859) 218-9333",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
