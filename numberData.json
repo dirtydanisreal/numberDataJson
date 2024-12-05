@@ -3264,6 +3264,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "PATIENT ROOMS PAV A (+ ROOM)",
+		"PRIMARY": "8 - 7000",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "PAV A INFO DESK",
 		"PRIMARY": "3 - 3045",
 		"SECONDARY": "",
