@@ -2265,7 +2265,7 @@
 	},
 	{
 		"NAME": "GOOD SAM MAIN",
-		"PRIMARY": "(859) 323-5000",
+		"PRIMARY": "(859) 226-7000",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -3338,6 +3338,14 @@
 	{
 		"NAME": "PEDIATRIC ED",
 		"PRIMARY": "3 - 2173",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDS",
+		"PRIMARY": "2 - 1631",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
