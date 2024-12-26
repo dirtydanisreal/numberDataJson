@@ -1777,7 +1777,15 @@
 	},
 	{
 		"NAME": "DIETARY",
-		"PRIMARY": "3 - 6978",
+		"PRIMARY": "3 - 6980",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIETARY LONG DISTANCE",
+		"PRIMARY": "(615) 579-9569",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
