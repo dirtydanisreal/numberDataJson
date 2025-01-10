@@ -184,14 +184,6 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "2MICU",
-		"PRIMARY": "7 - 2442",
-		"SECONDARY": "",
-		"PAGER": "",
-		"FAX": "",
-		"TUBE": ""
-	},
-	{
 		"NAME": "2TU DESK",
 		"PRIMARY": "3 - 0821",
 		"SECONDARY": "",
@@ -1144,11 +1136,35 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "ADMITTING",
+		"NAME": "ADMITTING PAV A",
 		"PRIMARY": "3 - 4073",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "3 - 4607",
+		"TUBE": ""
+	},
+	{
+		"NAME": "REGISTRATION PAV A",
+		"PRIMARY": "3 - 4073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 4607",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ADMITTING PAV H",
+		"PRIMARY": "3 - 5062",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "REGISTRATION PAV H",
+		"PRIMARY": "3 - 5062",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
 		"TUBE": ""
 	},
 	{
