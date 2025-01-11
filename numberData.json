@@ -2592,6 +2592,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM EVS",
+		"PRIMARY": "8 - 1434",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM MAIN",
 		"PRIMARY": "(859) 226-7000",
 		"SECONDARY": "",
@@ -2762,6 +2770,14 @@
 	{
 		"NAME": "GSH ENDO",
 		"PRIMARY": "8 - 9451",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH EVS",
+		"PRIMARY": "8 - 2977",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
