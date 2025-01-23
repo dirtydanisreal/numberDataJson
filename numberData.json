@@ -3096,6 +3096,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "IR PA DESK",
+		"PRIMARY": "8 - 8495",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "IR CONTROL DESK",
 		"PRIMARY": "3 - 0348",
 		"SECONDARY": "3 - 1132",
