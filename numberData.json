@@ -2208,6 +2208,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "ED CHARGE DESK",
+		"PRIMARY": "3 - 5915",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "ED CT SCAN",
 		"PRIMARY": "3 - 6167",
 		"SECONDARY": "",
@@ -3042,6 +3050,14 @@
 	{
 		"NAME": "INPATIENT CT",
 		"PRIMARY": "3 - 9730",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INPATIENT PHARMACY TO BADGE IN EXTERNAL CARRIERS",
+		"PRIMARY": "(859) 218-0001",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
