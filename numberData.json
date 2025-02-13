@@ -2568,6 +2568,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM ECHO LAB",
+		"PRIMARY": "3 - 8384",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GOOD SAM ED",
 		"PRIMARY": "(859) 323-8872",
 		"SECONDARY": "",
@@ -2762,6 +2770,14 @@
 	{
 		"NAME": "GSH DIETARY",
 		"PRIMARY": "(859) 551-8487",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ECHO LAB",
+		"PRIMARY": "3 - 8384",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
