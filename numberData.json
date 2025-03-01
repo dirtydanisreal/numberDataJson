@@ -1361,7 +1361,7 @@
 	},
 	{
 		"NAME": "9.100 RECOVERY",
-		"PRIMARY": "3 - 9037",
+		"PRIMARY": "3 - 9073",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -2282,6 +2282,14 @@
 	{
 		"NAME": "ED/ER",
 		"PRIMARY": "3 - 5901",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED XRAY",
+		"PRIMARY": "7 - 1698",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
