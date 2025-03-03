@@ -440,6 +440,22 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "5 NORTH PEDS",
+		"PRIMARY": "2 - 1630",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5N PEDS",
+		"PRIMARY": "2 - 1630",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "5 SOUTH",
 		"PRIMARY": "3 - 3996",
 		"SECONDARY": "",
