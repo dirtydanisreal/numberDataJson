@@ -352,7 +352,7 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "4 KCH",
+		"NAME": "PICU",
 		"PRIMARY": "3 - 5744",
 		"SECONDARY": "",
 		"PAGER": "",
@@ -376,7 +376,7 @@
 		"TUBE": ""
 	},
 	{
-		"NAME": "4 WELCOME",
+		"NAME": "CARDIAC REHAB",
 		"PRIMARY": "3 - 5773",
 		"SECONDARY": "",
 		"PAGER": "",
@@ -385,7 +385,7 @@
 	},
 	{
 		"NAME": "4 WEST",
-		"PRIMARY": "3 - 6280",
+		"PRIMARY": "3 - 6820",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -409,7 +409,7 @@
 	},
 	{
 		"NAME": "4W",
-		"PRIMARY": "3 - 6280",
+		"PRIMARY": "3 - 6820",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -3289,7 +3289,7 @@
 	},
 	{
 		"NAME": "LINEN",
-		"PRIMARY": "3 - 5132",
+		"PRIMARY": "(502) 220-2639",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
