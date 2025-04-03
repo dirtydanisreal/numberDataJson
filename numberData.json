@@ -3168,6 +3168,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "INTERNAL MEDICINE",
+		"PRIMARY": "8 - 2715",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "INTERVENTIONAL RADIOLOGY CONTROL DESK",
 		"PRIMARY": "3 - 0348",
 		"SECONDARY": "3 - 1132",
