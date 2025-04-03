@@ -4033,7 +4033,7 @@
 	},
 	{
 		"NAME": "RESPIRATORY",
-		"PRIMARY": "8 - 8349",
+		"PRIMARY": "3 - 0625",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
@@ -4052,6 +4052,14 @@
 		"PRIMARY": "257 - 6212",
 		"SECONDARY": "",
 		"PAGER": "(859) 330-0461",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RT",
+		"PRIMARY": "3 - 0625",
+		"SECONDARY": "",
+		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
 	},
