@@ -3856,6 +3856,22 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "PEDIATRIC EXTENDED RECOVERY UNIT",
+		"PRIMARY": "2 - 1186",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PERU",
+		"PRIMARY": "2 - 1186",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "PEDIATRIC SURGERY",
 		"PRIMARY": "3 - 5625",
 		"SECONDARY": "",
