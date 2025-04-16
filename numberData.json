@@ -641,8 +641,8 @@
 	},
 	{
 		"NAME": "6 EAST",
-		"PRIMARY": "3 - 6145",
-		"SECONDARY": "",
+		"PRIMARY": "3 - 6144",
+		"SECONDARY": "3 - 6145",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
@@ -825,8 +825,8 @@
 	},
 	{
 		"NAME": "6E",
-		"PRIMARY": "3 - 5644",
-		"SECONDARY": "",
+		"PRIMARY": "3 - 6144",
+		"SECONDARY": "3 - 6145",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
@@ -3626,6 +3626,14 @@
 	{
 		"NAME": "OR WAITING",
 		"PRIMARY": "3 - 4050",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORAL PATHOLOGY",
+		"PRIMARY": "3 - 5515",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
