@@ -1,1 +1,4516 @@
+[
+	{
+		"NAME": "10.1 AC/PC",
+		"PRIMARY": "3 - 9297",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "410"
+	},
+	{
+		"NAME": "10 100 AC/PC",
+		"PRIMARY": "3 - 9297",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "410"
+	},
+	{
+		"NAME": "10.1 ICU",
+		"PRIMARY": "3 - 9271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "910"
+	},
+	{
+		"NAME": "10 100 ICU",
+		"PRIMARY": "3 - 9271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "910"
+	},
+	{
+		"NAME": "10.2 AC/PC",
+		"PRIMARY": "3 - 9392",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "710"
+	},
+	{
+		"NAME": "10 200 AC/PC",
+		"PRIMARY": "3 - 9392",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "710"
+	},
+	{
+		"NAME": "10.2 ICU",
+		"PRIMARY": "3 - 9398",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "610"
+	},
+	{
+		"NAME": "10 200 ICU",
+		"PRIMARY": "3 - 9398",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "610"
+	},
+	{
+		"NAME": "101 AC/PC",
+		"PRIMARY": "3 - 9297",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "410"
+	},
+	{
+		"NAME": "101 ICU",
+		"PRIMARY": "3 - 9271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "910"
+	},
+	{
+		"NAME": "102 AC/PC",
+		"PRIMARY": "3 - 9392",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "710"
+	},
+	{
+		"NAME": "102 ICU",
+		"PRIMARY": "3 - 9398",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "610"
+	},
+	{
+		"NAME": "11.100 UNI",
+		"PRIMARY": "8 - 7863",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "411"
+	},
+	{
+		"NAME": "11 100 UNI",
+		"PRIMARY": "8 - 7863",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "411"
+	},
+	{
+		"NAME": "11.200 AC/PC",
+		"PRIMARY": "8 - 7947",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "711"
+	},
+	{
+		"NAME": "11 200 AC/PC",
+		"PRIMARY": "8 - 7947",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "711"
+	},
+	{
+		"NAME": "11.200 ICU",
+		"PRIMARY": "8 - 7936",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "611"
+	},
+	{
+		"NAME": "11 200 ICU",
+		"PRIMARY": "8 - 7936",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "611"
+	},
+	{
+		"NAME": "11100 UNI",
+		"PRIMARY": "8 - 7863",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "411"
+	},
+	{
+		"NAME": "11200 AC/PC",
+		"PRIMARY": "8 - 7947",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "711"
+	},
+	{
+		"NAME": "11200 ICU",
+		"PRIMARY": "8 - 7936",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "611"
+	},
+	{
+		"NAME": "12.1 MICU",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "412"
+	},
+	{
+		"NAME": "12 1 MICU",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "412"
+	},
+	{
+		"NAME": "12.100 ICU",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "912"
+	},
+	{
+		"NAME": "12 100 ICU",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "912"
+	},
+	{
+		"NAME": "12.200",
+		"PRIMARY": "8 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 4600",
+		"TUBE": "612,712"
+	},
+	{
+		"NAME": "12 200",
+		"PRIMARY": "8 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 4600",
+		"TUBE": "612,712"
+	},
+	{
+		"NAME": "1CDU",
+		"PRIMARY": "8 - 7280",
+		"SECONDARY": "8 - 8428",
+		"PAGER": "",
+		"FAX": "3 - 8337",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "1 CDU",
+		"PRIMARY": "8 - 7280",
+		"SECONDARY": "8 - 8428",
+		"PAGER": "",
+		"FAX": "3 - 8337",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "1IR",
+		"PRIMARY": "8 - 7280",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 8337",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "1MICU",
+		"PRIMARY": "(859) 323-6387",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "2 ",
+		"PRIMARY": "8 - 1480",
+		"SECONDARY": "8 - 1454",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "2CDU",
+		"PRIMARY": "8 - 1480",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "2 CDU",
+		"PRIMARY": "8 - 1480",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "2TU DESK",
+		"PRIMARY": "3 - 0821",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "2TU UNIT",
+		"PRIMARY": "3 - 0822",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "221"
+	},
+	{
+		"NAME": "3 BIRTHING CENTER",
+		"PRIMARY": "7 - 7426",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "3 MOTHER/BABY",
+		"PRIMARY": "3 - 8973",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "330"
+	},
+	{
+		"NAME": "3 NEO",
+		"PRIMARY": "3 - 0086",
+		"SECONDARY": "3 - 2243",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "3 NORTH",
+		"PRIMARY": "3 - 5397",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 7520",
+		"TUBE": ""
+	},
+	{
+		"NAME": "3 WAITING ROOM",
+		"PRIMARY": "3 - 4821",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "3N",
+		"PRIMARY": "3 - 5397",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4 CHILD LIFE",
+		"PRIMARY": "3 - 6473",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4 EAST",
+		"PRIMARY": "3 - 6821",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PICU",
+		"PRIMARY": "3 - 5744",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4 NEO",
+		"PRIMARY": "2 - 3271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4 NORTH",
+		"PRIMARY": "3 - 1333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CARDIAC REHAB",
+		"PRIMARY": "3 - 5773",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4 WEST",
+		"PRIMARY": "3 - 6820",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4E",
+		"PRIMARY": "3 - 6821",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4N",
+		"PRIMARY": "3 - 1333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "4W",
+		"PRIMARY": "3 - 6820",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5 EAST",
+		"PRIMARY": "3 - 6559",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5 MAIN",
+		"PRIMARY": "2 - 1631",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 5924",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RESEARCH",
+		"PRIMARY": "7 - 5033",
+		"SECONDARY": "8 - 7239",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5 NORTH PEDS",
+		"PRIMARY": "2 - 1630",
+		"SECONDARY": "2 - 1631",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5N PEDS",
+		"PRIMARY": "2 - 1630",
+		"SECONDARY": "2 - 1631",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5 SOUTH",
+		"PRIMARY": "3 - 3996",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5 WEST",
+		"PRIMARY": "3 - 6663",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5-1 AC/PC",
+		"PRIMARY": "3 - 3385",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "405"
+	},
+	{
+		"NAME": "5 100 AC/PC",
+		"PRIMARY": "3 - 3385",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "405"
+	},
+	{
+		"NAME": "5-1 ICU",
+		"PRIMARY": "3 - 3421",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "905"
+	},
+	{
+		"NAME": "5 100 ICU",
+		"PRIMARY": "3 - 3421",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "905"
+	},
+	{
+		"NAME": "5-2 AC/PC",
+		"PRIMARY": "3 - 3491",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "705"
+	},
+	{
+		"NAME": "5 200 AC/PC",
+		"PRIMARY": "3 - 3491",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "705"
+	},
+	{
+		"NAME": "5-200 ICU",
+		"PRIMARY": "3 - 3523",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "605"
+	},
+	{
+		"NAME": "5 200 ICU",
+		"PRIMARY": "3 - 3523",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "605"
+	},
+	{
+		"NAME": "5.1 AC/PC",
+		"PRIMARY": "3 - 3385",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "405"
+	},
+	{
+		"NAME": "5.1 ICU",
+		"PRIMARY": "3 - 3421",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "905"
+	},
+	{
+		"NAME": "5.1 PC",
+		"PRIMARY": "3 - 3385",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "405"
+	},
+	{
+		"NAME": "5.2 AC/PC",
+		"PRIMARY": "3 - 3491",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "705"
+	},
+	{
+		"NAME": "5.200 ICU",
+		"PRIMARY": "3 - 3523",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "605"
+	},
+	{
+		"NAME": "51 AC/PC",
+		"PRIMARY": "3 - 3385",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "405"
+	},
+	{
+		"NAME": "51 ICU",
+		"PRIMARY": "3 - 3421",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "905"
+	},
+	{
+		"NAME": "52 AC/PC",
+		"PRIMARY": "3 - 3491",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "705"
+	},
+	{
+		"NAME": "5200 ICU",
+		"PRIMARY": "3 - 3523",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "605"
+	},
+	{
+		"NAME": "5E",
+		"PRIMARY": "3 - 6559",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RESEARCH",
+		"PRIMARY": "7 - 5033",
+		"SECONDARY": "8 - 7239",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5S",
+		"PRIMARY": "3 - 3996",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "5W",
+		"PRIMARY": "3 - 6663",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 EAST",
+		"PRIMARY": "3 - 6144",
+		"SECONDARY": "3 - 6145",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 MAIN",
+		"PRIMARY": "3 - 6863",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 8935",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 NORTH CLERK",
+		"PRIMARY": "3 - 6753",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "6N",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 NORTH NURSE STATION",
+		"PRIMARY": "3 - 6802",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 SOUTH",
+		"PRIMARY": "3 - 5865",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6 WEST",
+		"PRIMARY": "3 - 3746",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6-1 AC/PC",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "6 100 UNIVERSAL",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "6.100 UNIVERSAL",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "6-1 ICU",
+		"PRIMARY": "8 - 8609",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3422",
+		"TUBE": "906"
+	},
+	{
+		"NAME": "6-2 ICU",
+		"PRIMARY": "8 - 8657",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "606"
+	},
+	{
+		"NAME": "6 200 ICU",
+		"PRIMARY": "8 - 8657",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "606"
+	},
+	{
+		"NAME": "6-2 UNI",
+		"PRIMARY": "8 - 8686",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "706"
+	},
+	{
+		"NAME": "6 200 UNI",
+		"PRIMARY": "8 - 8686",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "706"
+	},
+	{
+		"NAME": "6.1 AC/PC",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "6.1 ICU",
+		"PRIMARY": "8 - 8609",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3422",
+		"TUBE": "906"
+	},
+	{
+		"NAME": "6.2 ICU",
+		"PRIMARY": "8 - 8657",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3988",
+		"TUBE": "606"
+	},
+	{
+		"NAME": "6.2 UNI",
+		"PRIMARY": "8 - 8686",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "706"
+	},
+	{
+		"NAME": "61 AC/PC",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "6100 UNIVERSAL",
+		"PRIMARY": "8 - 8632",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3389",
+		"TUBE": "406"
+	},
+	{
+		"NAME": "61 ICU",
+		"PRIMARY": "8 - 8609",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3422",
+		"TUBE": "906"
+	},
+	{
+		"NAME": "62 ICU",
+		"PRIMARY": "8 - 8657",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3988",
+		"TUBE": "606"
+	},
+	{
+		"NAME": "62 UNI",
+		"PRIMARY": "8 - 8686",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "706"
+	},
+	{
+		"NAME": "6E",
+		"PRIMARY": "3 - 6144",
+		"SECONDARY": "3 - 6145",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6M",
+		"PRIMARY": "3 - 6863",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 8935",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6N CLERK",
+		"PRIMARY": "3 - 6753",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 1933",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6N NURSE STATION",
+		"PRIMARY": "3 - 6802",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6S",
+		"PRIMARY": "3 - 5865",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "6W",
+		"PRIMARY": "3 - 3746",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7 EAST",
+		"PRIMARY": "3 - 9115",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7 MAIN",
+		"PRIMARY": "3 - 5213",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 5211",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7 SOUTH",
+		"PRIMARY": "7 - 2129",
+		"SECONDARY": "7 - 2088",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7 WEST",
+		"PRIMARY": "3 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7-1 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "7 100 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "7.100 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "7-1 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "7 100 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "7.100 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "7-2 AC/PC",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7.2 UNIVERSAL",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7 200 UNIVERSAL",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7.200 UNIVERSAL",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7-2 ICU",
+		"PRIMARY": "323 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7 200 ICU",
+		"PRIMARY": "3 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7.200 ICU",
+		"PRIMARY": "3 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7.1 CONFERENCE ROOM",
+		"PRIMARY": "3 - 4148",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7.1 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "7 100 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "7.1 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "7 100 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "7.1 WAITING ROOM",
+		"PRIMARY": "3 - 3621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7.2 AC/PC",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7 200 UNIVERSAL",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "7.2 AC/PC BREAKROOM",
+		"PRIMARY": "3 - 3878",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7.2 CONFERENCE ROOM",
+		"PRIMARY": "3 - 4149",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7.2 ICU",
+		"PRIMARY": "323 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7 200 ICU",
+		"PRIMARY": "3 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7.2 RT",
+		"PRIMARY": "8 - 8349",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7.2 WAITING ROOM",
+		"PRIMARY": "3 - 3946",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "71 ICU",
+		"PRIMARY": "3 - 3600",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3615",
+		"TUBE": "907"
+	},
+	{
+		"NAME": "71 UNIVERSAL",
+		"PRIMARY": "3 - 3570",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "407"
+	},
+	{
+		"NAME": "72 AC/PC",
+		"PRIMARY": "3 - 3760",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3867",
+		"TUBE": "707"
+	},
+	{
+		"NAME": "72 AC/PC BREAKROOM",
+		"PRIMARY": "3 - 3878",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "72 ICU",
+		"PRIMARY": "323 - 3934",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 3942",
+		"TUBE": "607"
+	},
+	{
+		"NAME": "7E",
+		"PRIMARY": "3 - 9115",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7M",
+		"PRIMARY": "3 - 5213",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7S",
+		"PRIMARY": "7 - 2129",
+		"SECONDARY": "7 - 2088",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "7W",
+		"PRIMARY": "3 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8 EAST",
+		"PRIMARY": "3 - 9702",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8 MAIN",
+		"PRIMARY": "3 - 6212",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 1863",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8 SOUTH",
+		"PRIMARY": "8 - 7180",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8 WEST",
+		"PRIMARY": "8 - 7149",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8-1 AC/PC",
+		"PRIMARY": "8 - 4240",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "908"
+	},
+	{
+		"NAME": "8 100 AC/PC",
+		"PRIMARY": "8 - 4240",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "908"
+	},
+	{
+		"NAME": "8-2 ICU",
+		"PRIMARY": "8 - 4171",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "608"
+	},
+	{
+		"NAME": "8 200 ICU",
+		"PRIMARY": "8 - 4171",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "608"
+	},
+	{
+		"NAME": "8.1 AC/PC",
+		"PRIMARY": "8 - 4254",
+		"SECONDARY": "8 - 4240",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "908"
+	},
+	{
+		"NAME": "8 100 AC/PC",
+		"PRIMARY": "8 - 4254",
+		"SECONDARY": "8 - 4240",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "908"
+	},
+	{
+		"NAME": "8.2 ICU",
+		"PRIMARY": "8 - 4171",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "608"
+	},
+	{
+		"NAME": "8 200 ICU",
+		"PRIMARY": "8 - 4171",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "608"
+	},
+	{
+		"NAME": "81 AC/PC",
+		"PRIMARY": "8 - 4240",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "908"
+	},
+	{
+		"NAME": "82 ICU",
+		"PRIMARY": "8 - 4171",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "608"
+	},
+	{
+		"NAME": "8E",
+		"PRIMARY": "3 - 9702",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8M",
+		"PRIMARY": "3 - 6212",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 1863",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8S",
+		"PRIMARY": "8 - 7180",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "8W",
+		"PRIMARY": "8 - 7149",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9-1 AC/PC",
+		"PRIMARY": "3 - 9073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 9502",
+		"TUBE": "409"
+	},
+	{
+		"NAME": "9-2 AC/PC",
+		"PRIMARY": "3 - 9153",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9.1 131-142",
+		"PRIMARY": "3 - 9057",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "909"
+	},
+	{
+		"NAME": "9.1 AC/PC",
+		"PRIMARY": "3 - 9073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 9504",
+		"TUBE": "409"
+	},
+	{
+		"NAME": "9 100 AC/PC",
+		"PRIMARY": "3 - 9073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 9502",
+		"TUBE": "409"
+	},
+	{
+		"NAME": "9.100 RECOVERY",
+		"PRIMARY": "3 - 9057",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9.2 AC/PC",
+		"PRIMARY": "3 - 9153",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9 200 AC/PC",
+		"PRIMARY": "3 - 9153",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9.2 ICU",
+		"PRIMARY": "3 - 9199",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "9 200 ICU",
+		"PRIMARY": "3 - 9199",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "91 AC/PC",
+		"PRIMARY": "3 - 9073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "409"
+	},
+	{
+		"NAME": "9 100 AC/PC",
+		"PRIMARY": "3 - 9073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "409"
+	},
+	{
+		"NAME": "91 ICU",
+		"PRIMARY": "3 - 9057",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "909"
+	},
+	{
+		"NAME": "9 100 ICU",
+		"PRIMARY": "3 - 9057",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "909"
+	},
+	{
+		"NAME": "9100 MICU",
+		"PRIMARY": "3 - 9037",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "92 AC/PC",
+		"PRIMARY": "3 - 9153",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "92 ICU",
+		"PRIMARY": "3 - 9199",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ACCOUNTS PAYABLE",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ACUTE DIALYSIS",
+		"PRIMARY": "3 - 6353",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ADMITTING PAV A",
+		"PRIMARY": "3 - 4073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 4607",
+		"TUBE": ""
+	},
+	{
+		"NAME": "REGISTRATION PAV A",
+		"PRIMARY": "3 - 4073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 4607",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ADMITTING PAV H",
+		"PRIMARY": "3 - 5062",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "REGISTRATION PAV H",
+		"PRIMARY": "3 - 5062",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AFTER HOURS BLUE SOCIAL WORK",
+		"PRIMARY": "3 - 6348",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AFTER HOURS ON-DEMAND SHUTTLE",
+		"PRIMARY": "3 - 5062",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AFTER HOURS SHARPS BOX",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-2317",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AGILITI OFFICE",
+		"PRIMARY": "8 - 2878",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AGILITI PAV A",
+		"PRIMARY": "8 - 2975",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AGILITI PAV H",
+		"PRIMARY": "8 - 2974",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AGILITI SCANNERS & EQUIPMENT",
+		"PRIMARY": "8 - 2976",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AGILITY",
+		"PRIMARY": "8 - 2975",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ALLERGY",
+		"PRIMARY": "2 - 6900",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ALTERNATE SECURITY",
+		"PRIMARY": "3 - 6946",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "AMR",
+		"PRIMARY": "(859) 275-1113",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ANGIOGRAM",
+		"PRIMARY": "3 - 0348",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "APPOINTMENTS",
+		"PRIMARY": "3 - 7530",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "APPS",
+		"PRIMARY": "(859) 562-1085/1111",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ARTS AND MUSIC",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 913-3613",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BACTERIOLOGY LABORATORY",
+		"PRIMARY": "3 - 0348",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BARIUM SWALLOW",
+		"PRIMARY": "3 - 5057",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BARRY/BRACE",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 351-5500",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BED ASSIGNMENT",
+		"PRIMARY": "3 - 2233",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BED BOARD",
+		"PRIMARY": "3 - 2233",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BEREAVEMENT CART",
+		"PRIMARY": "3 - 6980",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BHU",
+		"PRIMARY": "8 - 9340",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BILLING",
+		"PRIMARY": "3 - 5806",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BLACKBERRY",
+		"PRIMARY": "2 - 1070",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BLACK CHEMO BINS",
+		"PRIMARY": "3 - 2233",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BLOOD BANK",
+		"PRIMARY": "3 - 5401",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 630
+	},
+	{
+		"NAME": "BMT",
+		"PRIMARY": "8 - 7936",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BREAVEMENT CART",
+		"PRIMARY": "3 - 6980",
+		"SECONDARY": "7 - 5610",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "BRIDGE SCREENERS",
+		"PRIMARY": "3 - 4120",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CAFETERIA",
+		"PRIMARY": "7 - 5610",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CAFÉ",
+		"PRIMARY": "8 - 7936",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CAPACITY COMMAND",
+		"PRIMARY": "7 - 6809",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CARDINAL HILL",
+		"PRIMARY": "7 - 5610",
+		"SECONDARY": "",
+		"PAGER": "(859) 254-5701",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CARDIOLOGY",
+		"PRIMARY": "3 - 0295",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CASE MANAGEMENT",
+		"PRIMARY": "3 - 5501",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CATH LAB",
+		"PRIMARY": "3 - 6035",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CATH LAB RECOVERY",
+		"PRIMARY": "3 - 4040",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CCM",
+		"PRIMARY": "(859) 330-0901",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0901",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTER FOR ADVANCED SURGERY",
+		"PRIMARY": "3 - 5860",
+		"SECONDARY": "",
+		"PAGER": "(859) 254-5701",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTER FOR ADVANCED SURGERY",
+		"PRIMARY": "3 - 5501",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL BAPTIST HOSPITAL",
+		"PRIMARY": "3 - 6035",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL LAB",
+		"PRIMARY": "2 - 0831",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 164
+	},
+	{
+		"NAME": "CENTRAL MONITORING STATION",
+		"PRIMARY": "3 - 0459",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL PHARMACY",
+		"PRIMARY": "3 - 5641",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 4277",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL PHARMACY TECH",
+		"PRIMARY": "8 - 0008",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL STAFFING",
+		"PRIMARY": "7 - 6809",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CENTRAL STERILE",
+		"PRIMARY": "3 - 6026",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CHAPLAIN",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-1520",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CHAPLAIN OFFICE",
+		"PRIMARY": "3 - 5301",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CHILD LIFE",
+		"PRIMARY": "3 - 6551",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-1520",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CHILDREN'S HOSPITAL",
+		"PRIMARY": "2 - 1630",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CHRISTINA BURTON",
+		"PRIMARY": "7 - 5043",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CLINICAL ENGINEERING",
+		"PRIMARY": "3 - 8586",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CMC PAV H CHEMO INFUSION",
+		"PRIMARY": "2 - 1626",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CMS",
+		"PRIMARY": "3 - 0641",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 1770",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CMS Tele Sitter",
+		"PRIMARY": "2 - 2402",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CNE",
+		"PRIMARY": "8 - 8400",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CODE (ANY COLOR)",
+		"PRIMARY": "3 - 5200",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "COLLEGE OF DENTISRY",
+		"PRIMARY": "3 - 9707",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "COLORECTAL SURGERY",
+		"PRIMARY": "7 - 3253",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "COMMUNICATION",
+		"PRIMARY": "8- 4357",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CONEFLOWER",
+		"PRIMARY": "2- 1020",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CRITICAL CARE MEDICINE",
+		"PRIMARY": "(859) 330-0901",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0901",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CROTHALL",
+		"PRIMARY": "3 - 7223",
+		"SECONDARY": "(859) 285-3917",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CSPU",
+		"PRIMARY": "3 - 3664",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CT RADIOLOGY",
+		"PRIMARY": "3 - 6169",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CT SCAN",
+		"PRIMARY": "3 - 6167",
+		"SECONDARY": "3 - 9730",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CUSTOMER RELATIONS",
+		"PRIMARY": "7 - 2178",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CUSTOMER SERVICE",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 257-2178",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "CVICU N",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "912"
+	},
+	{
+		"NAME": "DATA CENTER",
+		"PRIMARY": "3 - 0084",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "D/C PLANNER GROW",
+		"PRIMARY": "2 - 1072",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "D/C PLANNER TOLLE",
+		"PRIMARY": "2 - 1073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DCN-TRAUMA",
+		"PRIMARY": "2 - 6811",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DECEDENT AFFAIRS",
+		"PRIMARY": "8 - 9007",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIABETES AND OBESITY",
+		"PRIMARY": "3 - 2232",
+		"SECONDARY": "",
+		"PAGER": "(312) 399-3162",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIALYSIS",
+		"PRIMARY": "3 - 6115",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIET OFFICE",
+		"PRIMARY": "3 - 6980",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIETARY",
+		"PRIMARY": "(859) 478-9933",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIETARY LONG DISTANCE",
+		"PRIMARY": "(615) 579-9569",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIETARY STOCKING",
+		"PRIMARY": "(859) 489-1371",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIETARY SUPERVISOR",
+		"PRIMARY": "(859) 321-6827",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DIGESTIVE HEALTH",
+		"PRIMARY": "3 - 0079",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DISCHARGE LOUNGE",
+		"PRIMARY": "3 - 7960",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DISCHARGE CLINIC HARRODSBURG ROAD",
+		"PRIMARY": "(859) 562-0475",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DISPATCH",
+		"PRIMARY": "3 - 6215",
+		"SECONDARY": "3",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DISPATCH, NON-EMERGENCY",
+		"PRIMARY": "3 - 6281",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DOBHOFF TEAM",
+		"PRIMARY": "8 - 8244",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-3091",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "DYSPHASIA",
+		"PRIMARY": "7 - 7918",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "E-ICU",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 7422",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EASTERN STATE HOSPITAL",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 246-8000",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ECHO",
+		"PRIMARY": "3 - 6925",
+		"SECONDARY": "",
+		"PAGER": "8 - 4277",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ECHO CARDIOLOGY",
+		"PRIMARY": "3 - 5918",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED",
+		"PRIMARY": "3 - 5901",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED CHARGE DESK",
+		"PRIMARY": "3 - 5915",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED CT SCAN",
+		"PRIMARY": "3 - 6167",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED RADIOLOGY",
+		"PRIMARY": "7 - 1698",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED SATELLITE LAB",
+		"PRIMARY": "2 - 1203",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED/ER",
+		"PRIMARY": "3 - 5901",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ED XRAY",
+		"PRIMARY": "7 - 1698",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EEG",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0209",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EEG LAB",
+		"PRIMARY": "3 - 5032",
+		"SECONDARY": "7 - 2408",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EGS",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EICU",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 7422",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ELK",
+		"PRIMARY": "2 - 1030",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EMPATHH",
+		"PRIMARY": "2 - 3899",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EMPLOYEE & STUDENT HEALTH",
+		"PRIMARY": "3 - 5823",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-8532",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ENDOCRINOLOGY",
+		"PRIMARY": "3 - 5404",
+		"SECONDARY": "(859) 562-1186",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ENDOSCOPY CHARGE DESK",
+		"PRIMARY": "3 - 6409",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ENDOSCOPY CLERK DESK",
+		"PRIMARY": "3 - 3636",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ENT",
+		"PRIMARY": "7 - 5405",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ESS",
+		"PRIMARY": "(859) 330-0001",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ETHICS",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0365",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EVS",
+		"PRIMARY": "3 - 5133",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "EVS MANAGER",
+		"PRIMARY": "8 - 0233",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FINANCIAL SERVICES",
+		"PRIMARY": "3 - 9898",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FISH",
+		"PRIMARY": "2 - 1050",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FLUOROSCOPY",
+		"PRIMARY": "3 - 5551",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FLUOROSCOPY",
+		"PRIMARY": "3 - 5075",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "FOOD SERVICES",
+		"PRIMARY": "7 - 5610",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GASTROLOGY",
+		"PRIMARY": "3 - 0079",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GENERAL SURGERY",
+		"PRIMARY": "3 - 8130",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GIFT SHOP",
+		"PRIMARY": "3 - 4127",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GILL EKG",
+		"PRIMARY": "3 - 6254",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GILL HEART RADIOLOGY",
+		"PRIMARY": "8 - 6302",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GILL MRI",
+		"PRIMARY": "8 - 6321",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GLUCOMETER ISSUES",
+		"PRIMARY": "7 - 3051",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 3 MAIN",
+		"PRIMARY": "(859) 562-1968",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 4 ICU",
+		"PRIMARY": "(859) 218-9311",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 4 MAIN",
+		"PRIMARY": "(859) 218-9301",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MATERIALS",
+		"PRIMARY": "7 - 9211",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 4 WEST",
+		"PRIMARY": "(859) 218-9308",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 5 MAIN",
+		"PRIMARY": "(859) 218-9333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 5TH FLOOR",
+		"PRIMARY": "(859) 218-9333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 6 MAIN",
+		"PRIMARY": "(859) 218-9341",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM 7 MAIN",
+		"PRIMARY": "8 - 9355",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ADOLESCENT BEHAVIORAL HEALTH",
+		"PRIMARY": "(859) 218-9381",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ADULT BEHAVIORAL HEALTH",
+		"PRIMARY": "(859) 218-9340",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM AGILITI",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM BEHAVIORAL HEALTH",
+		"PRIMARY": "226-7063",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "226-7266",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ECHO LAB",
+		"PRIMARY": "3 - 8384",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ED",
+		"PRIMARY": "(859) 323-8872",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAMARITAN ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM ENDO",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM EVS",
+		"PRIMARY": "8 - 1434",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM GIFT SHOP",
+		"PRIMARY": "8 - 9470",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM INTERPRETERS",
+		"PRIMARY": "(859) 330-5043",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MAIN",
+		"PRIMARY": "(859) 226-7000",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MEDS 2 BEDS",
+		"PRIMARY": "8 - 4776",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MEDS TO BEDS",
+		"PRIMARY": "8 - 4776",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAMARITAN MEDS 2 BEDS",
+		"PRIMARY": "8 - 4776",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAMARITAN MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM PACU",
+		"PRIMARY": "8 - 9429",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM PRE-OP",
+		"PRIMARY": "8 - 9430",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GOOD SAM SLEEP CENTER",
+		"PRIMARY": "(859) 218-9341",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GROUND FLOOR INFO DESK",
+		"PRIMARY": "3 - 3120",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH 4 MAIN",
+		"PRIMARY": "8 - 9301",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH 5TH FLOOR",
+		"PRIMARY": "(859) 218-9333",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH 7 MAIN",
+		"PRIMARY": "8 - 9355",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH AGILITI",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH CENTRAL STERILE",
+		"PRIMARY": "(859) 218-9499",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH CHAPLAIN",
+		"PRIMARY": "(859) 226-7029",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-2782",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH CT",
+		"PRIMARY": "(859) 218-9454",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH DIALYSIS",
+		"PRIMARY": "(859) 218-8017",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH DIETARY",
+		"PRIMARY": "(859) 551-8487",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ECHO LAB",
+		"PRIMARY": "3 - 8384",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ED",
+		"PRIMARY": "(859) 323-8872",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ED AFTER HOURS VAN",
+		"PRIMARY": "(859) 983-7323",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ENDO",
+		"PRIMARY": "8 - 9451",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH EVS",
+		"PRIMARY": "8 - 1434",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH GIFT SHOP",
+		"PRIMARY": "8 - 9470",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ICU",
+		"PRIMARY": "(859) 218-9311",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH INTERPRETERS",
+		"PRIMARY": "(859) 330-5043",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH LAB",
+		"PRIMARY": "(859) 323-9579",
+		"SECONDARY": "(839) 323-9580",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MATERIALS",
+		"PRIMARY": "7 - 9211",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MEDS 2 BEDS",
+		"PRIMARY": "8 - 4776",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MONITORED TRANSPORT",
+		"PRIMARY": "(859) 213-1584",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH MRI FRONT DESK",
+		"PRIMARY": "2 - 1799",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH OR",
+		"PRIMARY": "(859) 218-9409",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH PACU",
+		"PRIMARY": "8-9429",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH PHARMACY",
+		"PRIMARY": "(859) 323-8796",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH PRE-OP",
+		"PRIMARY": "8 - 9430",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH RAPID RESPONSE",
+		"PRIMARY": "(859) 608-9181",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH SECURITY",
+		"PRIMARY": "(859) 257-1616",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH ULTRASOUND",
+		"PRIMARY": "(859) 218-9456",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH XRAY",
+		"PRIMARY": "8 - 9450",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH-HOA",
+		"PRIMARY": "(850) 338-8250",
+		"SECONDARY": "(859) 562-2056",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GYO CLINIC",
+		"PRIMARY": "3 - 5553",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "(859) 323-1602",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HEALTH INFO LIBRARY",
+		"PRIMARY": "3 - 7808",
+		"SECONDARY": "",
+		"PAGER": "(859) 226-7000",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HELP DESK",
+		"PRIMARY": "3 - 8586",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HEMATOLOGY",
+		"PRIMARY": "3 - 2569",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HIM",
+		"PRIMARY": "3 - 5117",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 0332",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HOA",
+		"PRIMARY": "7 - 4700",
+		"SECONDARY": "(859) 757-6452",
+		"PAGER": "(859) 330-6855",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HOSPICE",
+		"PRIMARY": "2 - 1135",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HOSPITALITY LOUNGE",
+		"PRIMARY": "3 - 7960",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "HUMAN RESOURCES",
+		"PRIMARY": "7 - 9555",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "IMAGE RECORDS",
+		"PRIMARY": "3 - 2131",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "IMAGING",
+		"PRIMARY": "8 - 6303",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INFANT NUTRITION",
+		"PRIMARY": "(859) 562-1108",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INFORMATION DESK",
+		"PRIMARY": "3 - 5816",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-6992",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INFUSION",
+		"PRIMARY": "3 - 6790",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INFECTIOUS CONTROL",
+		"PRIMARY": "3 - 6337",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INPATIENT CT",
+		"PRIMARY": "3 - 9730",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INPATIENT PHARMACY TO BADGE IN EXTERNAL CARRIERS",
+		"PRIMARY": "(859) 218-0001",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INPATIENT ON CALL CASE MANAGEMENT",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-1077",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INTEGRATIVE MEDICINE",
+		"PRIMARY": "3 - 4325",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INTERPRETER",
+		"PRIMARY": "3 - 8951",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-6692",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INTERNAL MEDICINE",
+		"PRIMARY": "8 - 2715",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "INTERVENTIONAL RADIOLOGY CONTROL DESK",
+		"PRIMARY": "3 - 0348",
+		"SECONDARY": "3 - 1132",
+		"PAGER": "",
+		"FAX": "(859) 330-1729",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "INTERVENTIONAL RADIOLOGY NURSE STATION",
+		"PRIMARY": "8 - 8423",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "IPAC",
+		"PRIMARY": "3 - 6337",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-6692",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "IR PA DESK",
+		"PRIMARY": "8 - 8495",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "IR CONTROL DESK",
+		"PRIMARY": "3 - 0348",
+		"SECONDARY": "3 - 1132",
+		"PAGER": "(859) 330-1729",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "IR NURSE STATION",
+		"PRIMARY": "8 - 8423",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": "757"
+	},
+	{
+		"NAME": "IRIS TRAINING",
+		"PRIMARY": "7 - 3856",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "KCH SEDATION",
+		"PRIMARY": "3 - 1909",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "KENTUCKY CLINIC",
+		"PRIMARY": "7 - 3253",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "KODA",
+		"PRIMARY": "(800) 525-3456",
+		"SECONDARY": "(859) 278-3492",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "KY CLINIC MAIN",
+		"PRIMARY": "7 - 1000",
+		"SECONDARY": "",
+		"PAGER": "(800) 525-3456",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "LAB",
+		"PRIMARY": "2 - 0831",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 164
+	},
+	{
+		"NAME": "LACTATION",
+		"PRIMARY": "(859) 361-4689",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 164
+	},
+	{
+		"NAME": "LABOR HALL",
+		"PRIMARY": "3 - 5932",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "LABOR AND DELIVERY",
+		"PRIMARY": "3 - 6310",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "LINEN",
+		"PRIMARY": "(502) 220-2639",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "LOST AND FOUND",
+		"PRIMARY": "7 - 2178",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MAINTENACE DISPATCH",
+		"PRIMARY": "3 - 6285",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MAINTENANCE",
+		"PRIMARY": "3 - 6285",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MAMMOGRAPHY",
+		"PRIMARY": "3 - 2222",
+		"SECONDARY": "",
+		"PAGER": "(859) 229-5767",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MATERIALS",
+		"PRIMARY": "3 - 5645",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": 750
+	},
+	{
+		"NAME": "MATERIALS OR",
+		"PRIMARY": "3 - 8080",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MEDICAL LIBRARY",
+		"PRIMARY": "3 - 5300",
+		"SECONDARY": "7 - 3951",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MEDICAL RECORDS",
+		"PRIMARY": "3 - 5117",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "8-7658",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MEDS TO BEDS",
+		"PRIMARY": "8 - 3360",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 5622",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MICROBIOLOGY",
+		"PRIMARY": "7 - 5003",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MICU",
+		"PRIMARY": "3 - 6816",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MICU 1",
+		"PRIMARY": "8 - 9670",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "2 - 1997",
+		"TUBE": "412"
+	},
+	{
+		"NAME": "MICU2",
+		"PRIMARY": "8 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 4600",
+		"TUBE": "712"
+	},
+	{
+		"NAME": "MICU3",
+		"PRIMARY": "8 - 9621",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "7 - 4600",
+		"TUBE": "612"
+	},
+	{
+		"NAME": "MICRO LAB",
+		"PRIMARY": "3 - 5411",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MOBILITY",
+		"PRIMARY": "8 - 8351",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MORGUE",
+		"PRIMARY": "3 - 5468",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "MRI",
+		"PRIMARY": "3 - 1135",
+		"SECONDARY": "3 - 3944",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NACU",
+		"PRIMARY": "2 - 3271",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NBN",
+		"PRIMARY": "7 - 7430",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NEWBORN NURSERY",
+		"PRIMARY": "3 - 2243",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NICU",
+		"PRIMARY": "2 - 1010",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-2336",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NOTARY  PUBLIC",
+		"PRIMARY": "7 - 9196",
+		"SECONDARY": "",
+		"PAGER": "(859) 625-2822",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NUCLEAR MEDICINE",
+		"PRIMARY": "3 - 6443",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NURSE PAYROLL",
+		"PRIMARY": "7 - 3946",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NURSE PRACTITIONER",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "NURSE RECRUITMENT",
+		"PRIMARY": "7 - 9674",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-3760",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OB CHARGE RN",
+		"PRIMARY": "(859) 469-2884",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OBSERVATION AND LEARNING",
+		"PRIMARY": "8 - 5792",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ON CALL DOCTOR",
+		"PRIMARY": "3 - 5321",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ON CALL NURSE",
+		"PRIMARY": "(859) 562-2783",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ON CALL NURSE AFTER HOURS/WEEKENDS",
+		"PRIMARY": "(859) 323-5321",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ON CALL SAFETY OFFICE",
+		"PRIMARY": "3 - 5734",
+		"SECONDARY": "",
+		"PAGER": "(859) 259-6690",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OPTHAMOLOGY CLINIC",
+		"PRIMARY": "3 - 5867",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR",
+		"PRIMARY": "8 - 7361",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR DESK",
+		"PRIMARY": "3 - 5631",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR FRONT DESK",
+		"PRIMARY": "3 - 5631",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR MATERIALS",
+		"PRIMARY": "3 - 8080",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR PHARMACY",
+		"PRIMARY": "8 - 1306",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "OR WAITING",
+		"PRIMARY": "3 - 4050",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORAL PATHOLOGY",
+		"PRIMARY": "3 - 5515",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORAL SURGERY",
+		"PRIMARY": "3 - 0492",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORDER PATIENT ROOM PHONES",
+		"PRIMARY": "8 - 4357",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORTHO",
+		"PRIMARY": "8 - 8353",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ORTHO CLINIC",
+		"PRIMARY": "3 - 5533",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PACU",
+		"PRIMARY": "3 - 6234",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PACU ANNEX",
+		"PRIMARY": "7 - 5814",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PACU WAITING",
+		"PRIMARY": "3 - 4049",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAGING",
+		"PRIMARY": "3 - 5321",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAIN MANAGEMENT",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-4007",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAIN MANAGEMENT, ACUTE",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "330-4007",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAIN MANAGEMENT, CHRONIC",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "330-4002",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PARKING GARAGE OFFICE",
+		"PRIMARY": "7 - 5757",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-4007",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PASTORAL CARE",
+		"PRIMARY": "3 - 5301",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-1520",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATHOLOGY",
+		"PRIMARY": "7 - 5089",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATIENT EXPERIENCE AND COMPLAINT",
+		"PRIMARY": "7 - 2178",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATIENT FINANCIAL SERVICES",
+		"PRIMARY": "3 - 9898",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATIENT INFO",
+		"PRIMARY": "3 - 5816",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATIENT PHONES",
+		"PRIMARY": "8 - 4357",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PATIENT ROOMS PAV A (+ ROOM)",
+		"PRIMARY": "8 - 7000",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAV A INFO DESK",
+		"PRIMARY": "3 - 3045",
+		"SECONDARY": "",
+		"PAGER": "(859) 338-4952",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAV A INFO DESK (GROUND)",
+		"PRIMARY": "3 - 3120",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAV A RETAIL PHARMACY",
+		"PRIMARY": "8 - 3340",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+		{
+		"NAME": "PAV H GIFT SHOP",
+		"PRIMARY": "7 - 1559",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+		{
+		"NAME": "PAV H INFO DESK",
+		"PRIMARY": "3 - 0444",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAV A X-RAY",
+		"PRIMARY": "7 - 1698",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 1224",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PAV H X-RAY ",
+		"PRIMARY": "3 - 5075",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDIATRIC ED",
+		"PRIMARY": "3 - 2173",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDS",
+		"PRIMARY": "2 - 1631",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDIATRIC EXTENDED RECOVERY UNIT",
+		"PRIMARY": "2 - 1186",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PERU",
+		"PRIMARY": "2 - 1186",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDIATRIC SURGERY",
+		"PRIMARY": "3 - 5625",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDS SLEEP CENTER LEAD TECH",
+		"PRIMARY": "8 - 9699",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PEDS SLEEP CENTER CONTROL ROOM",
+		"PRIMARY": "8 - 9698",
+		"SECONDARY": "8 - 9697",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PHARM RUN",
+		"PRIMARY": "8 - 0008",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PHARMACY",
+		"PRIMARY": "3 - 5641",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 1950",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PHARMACY CLINIC",
+		"PRIMARY": "3 - 5855",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PHLEBOTOMY",
+		"PRIMARY": "3 - 5431",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PHYSICAL THERAPY",
+		"PRIMARY": "3 - 5841",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PICC RN",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-7447",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PLASMAPHERESIS",
+		"PRIMARY": "3 - 9790",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PLASTICS CLINIC",
+		"PRIMARY": "3 - 8082",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-7447",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "POC LAB",
+		"PRIMARY": "7 - 3051",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "POINT OF CARE LAB",
+		"PRIMARY": "7 - 3051",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PPD",
+		"PRIMARY": "3 - 6281",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PRE OP",
+		"PRIMARY": "7 - 4282",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PRE-OP",
+		"PRIMARY": "7 - 4282",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PT",
+		"PRIMARY": "3 - 5841",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "PULMONARY",
+		"PRIMARY": "3 - 9555",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RADIATION",
+		"PRIMARY": "3 - 7297",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RADIATION MEDICINE",
+		"PRIMARY": "3 - 6486",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RADIOLOGY",
+		"PRIMARY": "3 - 5075",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RAPID RESPONSE",
+		"PRIMARY": "(859) 227-9995",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-6860",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RECYCLING",
+		"PRIMARY": "(859) 321-6951",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "REGISTRATION",
+		"PRIMARY": "3 - 4073",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RESIDENT ROOM",
+		"PRIMARY": "(859) 532-1112",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RESPIRATORY",
+		"PRIMARY": "3 - 0625",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RESPIRATORY MANAGER FOR TANKS",
+		"PRIMARY": "(859) 576-8937",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RISK MANAGEMENT",
+		"PRIMARY": "257 - 6212",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0461",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "RT",
+		"PRIMARY": "3 - 0625",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SAMARITAN PRE-OP",
+		"PRIMARY": "8 - 9430",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SCREENERS",
+		"PRIMARY": "7 - 2177",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SECURITY",
+		"PRIMARY": "3 - 6156",
+		"SECONDARY": "7 - 4545",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SECURITY BADGE ACCESS",
+		"PRIMARY": "3 - 2356",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SGE FLOOR SERVICE PAGER",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0913",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SGE ICU SERVICE PAGER",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-8532",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SGT ICU SERVICE PAGER",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-3760",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SHARPS BOXES",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-7663",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SHUTTLE",
+		"PRIMARY": "3 - 6824",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SIMULATION CENTER",
+		"PRIMARY": "8 - 7999",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SITTER TELE",
+		"PRIMARY": "2 - 2402",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SITTERS",
+		"PRIMARY": "3 - 7223",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SOCIAL WORKER",
+		"PRIMARY": "3 - 5501",
+		"SECONDARY": "",
+		"PAGER": "(859) 447-0914",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SPEECH",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-7427",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SQUIRREL",
+		"PRIMARY": "2 - 1060",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SUPPLY",
+		"PRIMARY": "7 - 2446",
+		"SECONDARY": "",
+		"PAGER": "(859) 257-7918",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SURGERY WAITING",
+		"PRIMARY": "3 - 4050",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "SURPLUS",
+		"PRIMARY": "7 - 4126",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TEAM BLUE FLOOR",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-0913",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TEAM BLUE ICU",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-3760",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TELE SITTER",
+		"PRIMARY": "2 - 2402",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TELE TRANSPORT",
+		"PRIMARY": "2 - 2087",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TM NORTH",
+		"PRIMARY": "(859) 333-7937",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TM SOUTH",
+		"PRIMARY": "(859) 684-2695",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TRANSLATOR",
+		"PRIMARY": "3 - 8951",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-6692",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TRANSPLANT CLINIC",
+		"PRIMARY": "3 - 1691",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "TRANSPORT",
+		"PRIMARY": "7 - 1972",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UHS",
+		"PRIMARY": "8 - 2975",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UK DENTISTRY",
+		"PRIMARY": "3- 8873",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UKHC SAFETY",
+		"PRIMARY": "2 - 3137",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UKMDs",
+		"PRIMARY": "7 - 5522",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UKPD",
+		"PRIMARY": "3 - 6156",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "ULTRASOUND",
+		"PRIMARY": "3 - 5072",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "3 - 1224",
+		"TUBE": ""
+	},
+	{
+		"NAME": "UROLOGY",
+		"PRIMARY": "7 - 3533",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VA HOSPITAL",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 233-4511",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VASCULAR",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VASCULAR LAB",
+		"PRIMARY": "3 - 5119",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-1678",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VENUS DUPLEX",
+		"PRIMARY": "3 - 5119",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VITAL STATS",
+		"PRIMARY": "3 - 5818",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VOALTE PHONES/REPLACEMENT",
+		"PRIMARY": "2 - 8162",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VOCERA",
+		"PRIMARY": "3 - 9700",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "VOLUNTEER SERVICES",
+		"PRIMARY": "3 - 6023",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "WARBLER",
+		"PRIMARY": "2 - 1040",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "WE CARE",
+		"PRIMARY": "(859) 286-5594",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "(859) 559-0690",
+		"TUBE": ""
+	},
+	{
+		"NAME": "WOMEN'S CARE",
+		"PRIMARY": "2 - 1629",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "(859) 257-7416",
+		"TUBE": "231"
+	},
+	{
+		"NAME": "WOUND PAGER",
+		"PRIMARY": "",
+		"SECONDARY": "",
+		"PAGER": "(859) 330-2336",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "WOUND/OSTOMY",
+		"PRIMARY": "3 - 3730",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	}
+	,
+	{
+		"NAME": "XRAY",
+		"PRIMARY": "3 - 5075",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	}
+]
 
