@@ -2776,6 +2776,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "GOOD SAM TRANSPORT",
+		"PRIMARY": "(859) 490-0527",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "GROUND FLOOR INFO DESK",
 		"PRIMARY": "3 - 3120",
 		"SECONDARY": "",
@@ -3002,6 +3010,14 @@
 	{
 		"NAME": "GSH SECURITY",
 		"PRIMARY": "(859) 257-1616",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GSH TRANSPORT",
+		"PRIMARY": "(859) 490-0527",
 		"SECONDARY": "",
 		"PAGER": "",
 		"FAX": "",
