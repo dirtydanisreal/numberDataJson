@@ -3592,6 +3592,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "OB TRIAGE",
+		"PRIMARY": "7 - 7426",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "OBSERVATION AND LEARNING",
 		"PRIMARY": "8 - 5792",
 		"SECONDARY": "",
