@@ -1576,6 +1576,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "AGILITI GSH",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "8 - 3957",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "AGILITI SCANNERS & EQUIPMENT",
 		"PRIMARY": "8 - 2976",
 		"SECONDARY": "",
@@ -2826,7 +2834,15 @@
 	{
 		"NAME": "GSH AGILITI",
 		"PRIMARY": "8 - 2977",
-		"SECONDARY": "",
+		"SECONDARY": "8 - 3957",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
+		"NAME": "GS AGILITI",
+		"PRIMARY": "8 - 2977",
+		"SECONDARY": "8 - 3957",
 		"PAGER": "",
 		"FAX": "",
 		"TUBE": ""
