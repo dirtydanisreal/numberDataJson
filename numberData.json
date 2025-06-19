@@ -3872,6 +3872,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "PATIENT ROOMS PAV H (X = ROOM)",
+		"PRIMARY": "3 - 1XXX",
+		"SECONDARY": "3 - 2XXX",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "PAV A INFO DESK",
 		"PRIMARY": "3 - 3045",
 		"SECONDARY": "",
