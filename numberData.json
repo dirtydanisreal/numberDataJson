@@ -2272,6 +2272,14 @@
 		"TUBE": ""
 	},
 	{
+		"NAME": "ECHO INPATIENT",
+		"PRIMARY": "8 - 4277 ",
+		"SECONDARY": "",
+		"PAGER": "",
+		"FAX": "",
+		"TUBE": ""
+	},
+	{
 		"NAME": "ECHO CARDIOLOGY",
 		"PRIMARY": "3 - 5918",
 		"SECONDARY": "",
